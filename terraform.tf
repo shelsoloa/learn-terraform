@@ -3,13 +3,15 @@
 
 terraform {
 
+/*
   cloud {
-    organization = "organization-name"
+    organization = "PromoExchange"
 
     workspaces {
       name = "learn-terraform"
     }
   }
+*/
 
   required_providers {
     aws = {
